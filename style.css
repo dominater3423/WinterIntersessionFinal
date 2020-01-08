@@ -1,0 +1,19 @@
+body {
+    background-color: #1D1C1A;
+    color: white;
+    padding-right: 15%;
+    padding-left: 15%;
+    font-family: dejavu;
+}
+
+#reindeer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 30%;
+}
+
+p {
+    padding-left: 50px;
+}
